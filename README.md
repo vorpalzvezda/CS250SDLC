@@ -1,4 +1,4 @@
-# CS250SDLC
+# CS250 - SDLC (Software Development Lifecycle)
 This is a collection of CS250 assignments
 
 # CS250 - Module 8 Journal 
